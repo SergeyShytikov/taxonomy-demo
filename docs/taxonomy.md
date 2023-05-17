@@ -1,4 +1,4 @@
-# [Art & entertainment](art_and_entertainment.md)
+# [Art & entertainment](./Art%26Entertainment/art_and_entertainment.md)
 
 This category includes industries related to the creation, promotion, and distribution of artistic and entertainment content. It encompasses visual arts, music, film, theater, literature, and other forms of entertainment such as amusement parks and gaming.
 
