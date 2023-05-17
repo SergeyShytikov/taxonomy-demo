@@ -45,4 +45,4 @@
     - Radio Producers ([belongs in Radio Podcasts]())
     - Voice Acting ([belongs in Performing Arts]())
 
-[Edit on :simple-github:](https://github.com/SergeyShytikov/taxonomy-demo/blob/master/docs/concerts_and_music.md){ .md-button }
+[Edit on :simple-github:](https://github.com/SergeyShytikov/taxonomy-demo/blob/master/docs/Art%26Entertainment/concerts_and_music.md){ .md-button }
