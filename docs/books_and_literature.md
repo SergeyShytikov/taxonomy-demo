@@ -33,4 +33,4 @@
 - Personal Blog ([belongs in Personal Content]())
 - Script Writers ([belongs in Movies & TV]())
 
-[Edit on :simple-github:](#){ .md-button }
+[Edit on :simple-github:](https://github.com/SergeyShytikov/taxonomy-demo/blob/master/docs/books_and_literature.md){ .md-button }

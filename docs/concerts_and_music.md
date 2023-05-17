@@ -42,3 +42,5 @@
 - Stand-Up Comedy ([belongs in Performing Arts]())
 - Radio Producers ([belongs in Radio Podcasts]())
 - Voice Acting ([belongs in Performing Arts]())
+
+[Edit on :simple-github:](https://github.com/SergeyShytikov/taxonomy-demo/blob/master/docs/concerts_and_music.md){ .md-button }
