@@ -1,10 +1,9 @@
-# Concerts & Music
+# **Concerts & Music**
 
 #### id: concerts_music
 
-!!! success ""
+!!! success "Included Items"
 
-    # Included Items
     - Concerts & Music
     - Musician
     - Djs
@@ -33,9 +32,8 @@
     - Band Merch
     - Concerts Tickets
 
-!!! bug ""
+!!! failure "Excluded Items"
 
-    # Excluded Items
     - Actors ([belongs in Performing Arts]())
     - Dancers ([belongs in Performing Arts]())
     - Models ([belongs in Modeling]())

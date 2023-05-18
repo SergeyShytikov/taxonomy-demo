@@ -1,10 +1,9 @@
-# Books&Literature
+# **Books&Literature**
 
 #### id: book_literature
 
-!!! success ""
+!!! success "Included Items"
 
-    # Included Items
     - Book Shops
     - Authors Cv/Portfolio
     - Literature Blog
@@ -25,9 +24,8 @@
     - Sign Language Interpreter
     - Text Editors (Literature & Articles)
 
-!!! bug ""
+!!! failure "Excluded Items"
 
-    ## Excluded Items
     - Journalists ([belongs in News & Media]())
     - News ([belongs in News & Media]())
     - Social Media ([belongs in Marketing & Advertising]())
